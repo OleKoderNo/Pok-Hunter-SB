@@ -1,0 +1,15 @@
+# Runtime viewer data — do not publish Twitch user IDs or live collections
+PokemonCatchData/collections.json
+PokemonCatchData/collections.json.tmp
+PokemonCatchData/Backups/
+collections.json
+collections.json.tmp
+Backups/
+
+# Streamer.bot runtime/log files
+logs/
+*.log
+
+# Operating-system files
+.DS_Store
+Thumbs.db
