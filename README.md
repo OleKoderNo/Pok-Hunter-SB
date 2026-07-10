@@ -32,7 +32,6 @@ If you enjoy this project, consider stopping by the stream and saying hello!
 - 🔄 Automatic save file creation
 - 🗂 Automatic backups
 - ⚡ No database required
-- 🌐 Works completely offline after the initial setup
 
 ---
 
